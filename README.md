@@ -1,2 +1,16 @@
-# Noutati Server
-Test Github
+# Noutati Server - V1.4
+
+- Panou autentificare
+- Panou creare/selectare caracter(e)
+- Panou lista jucatori
+- HUD
+- Radar si Mapa
+- Vitezometru
+- Sistem Realism (semnalizari etc..)
+- Panou descarcare/incarcare resurse
+- Nametag
+
+# Urmeaza in V1.5
+- Un nou chat
+- Meniu personal (dashboard)
+- Sistem Rapoarte
