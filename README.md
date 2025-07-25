@@ -1,5 +1,3 @@
-# Noutati Server - V1.4
-
 - Panou autentificare
 - Panou creare/selectare caracter(e)
 - Panou lista jucatori
@@ -10,7 +8,7 @@
 - Panou descarcare/incarcare resurse
 - Nametag
 
-# Urmeaza in V1.5
+Urmeaza in V1.5:
 - Un nou chat
 - Meniu personal (dashboard)
 - Sistem Rapoarte
