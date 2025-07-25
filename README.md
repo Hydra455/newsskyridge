@@ -7,8 +7,6 @@
 - Sistem Realism (semnalizari etc..)
 - Panou descarcare/incarcare resurse
 - Nametag
-
-Urmeaza in V1.5:
 - Un nou chat
 - Meniu personal (dashboard)
 - Sistem Rapoarte
